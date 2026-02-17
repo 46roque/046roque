@@ -10,13 +10,8 @@
 - React & React Native  
 - Node.js  
 - CSS / Tailwind  
-- Git & GitHub  
-
----
-
- 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=046roque&show_icons=true&theme=dark)
-
+- Git & GitHub
+  
 ---
 
  📫 Contato
